@@ -1,0 +1,32 @@
+html {
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    background-color: #00539F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #009df8;
+    padding: 20px 20px 20px 20px;
+  }
+
+  h1 {
+    text-align: center;
+    margin: 50px 50px;
+    color: #ffffff;
+}
+
+p, li {
+    font-size: 25px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+  }
